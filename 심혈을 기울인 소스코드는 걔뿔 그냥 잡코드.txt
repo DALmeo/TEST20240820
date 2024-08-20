@@ -1,0 +1,9 @@
+#include<iostream>
+
+using namepace std;
+
+void main()
+{
+gpfa=-\awpo fkmazwpo fawp
+오늘 삼겹살 먹었당 ㅎㅎ ㅈㄴ 마시써 다메또 머거야쥥ㄴ
+}
